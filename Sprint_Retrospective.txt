@@ -1,0 +1,7 @@
+O processo inicial de clonar o repositorio foi feito com facilidade.
+Foi criada a branch para o index.html e o contato.html então realizada a
+atualização de acordo com a história escolhida durante a reunião.
+O processo de merge foi feito com sucesso para o index.html, porém para o
+contato.html ocorreu um conflito, porém só foi necessário deletar a branch de
+contato e fazer o push para o main com as mudanças.
+Após isso, todas as mudanças constaram no repositório do git hub.
